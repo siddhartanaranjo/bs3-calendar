@@ -1,0 +1,25 @@
+@font-face{font-family:'PT Sans';font-style:normal;font-weight:400;src:local('PT Sans'),local('PTSans-Regular'),url(http://fonts.gstatic.com/s/ptsans/v8/CWlc_g68BGYDSGdpJvpktgLUuEpTyoUstqEm5AMlJo4.woff2) format('woff2')}@font-face{font-family:'PT Sans';font-style:normal;font-weight:700;src:local('PT Sans Bold'),local('PTSans-Bold'),url(http://fonts.gstatic.com/s/ptsans/v8/0XxGQsSc1g4rdRdjJKZrNAzyDMXhdD8sAj6OAJTFsBI.woff2) format('woff2')}
+html{
+	height: 100%;
+	position: relative;
+}
+body{
+	background: url("../img/bg.png") no-repeat fixed;
+	background-position: center;
+	background-size: cover;
+	display: table;
+	font-family: 'PT Sans', sans-serif;
+	height: 100%;
+	position: relative;
+	width: 100%;
+}
+.vert-text{
+	display: table-cell;
+	vertical-align: middle;
+}
+.mgn-top{
+	margin-top: 20px;
+}
+h1{
+	color: #fefefe;
+}
