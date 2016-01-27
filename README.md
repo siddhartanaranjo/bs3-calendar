@@ -1,4 +1,4 @@
 # bs3-calendar
 Responsive Calendar bootstrap 3
 
-www.bscalendar.d-ak.mx
+http://bs3calendar.d-ak.mx/
